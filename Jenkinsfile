@@ -8,6 +8,7 @@ pipeline {
         stage('Build') {
             steps {
                 sh 'pwd'
+                sh 'echo "hello world!"'
             }
         }
         stage('Test') {
