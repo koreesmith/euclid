@@ -1,5 +1,6 @@
 //Jenkinsfile for Euclid project by Koree A. Smith
 //Copyright 2020 Koree A. Smith - All Rights Reserved
+//
 
 pipeline {
 
