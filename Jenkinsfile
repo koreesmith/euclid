@@ -1,3 +1,5 @@
+//Jenkinsfile for Euclid project by Koree A. Smith
+
 pipeline {
 
     agent any
